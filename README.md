@@ -1,2 +1,2 @@
 # hello-world
-This is my first github project.
+I have completed Graphics and Web Designing course in 2012 from Aptech and joined 3 different IT companies as Web/Graphic Designer, Sr. Web Designer, Sr. HTML Developer in last 4+ years. I have strong knowledge on HTML5, CSS3, Boostrap, Foundation, Mobile Responsive, JavaScript, jQuery, Email Template, PSD, Ai, cdr etc. I have also good knowledge on WordPress front-end and back-end for creating BLOG/eCommerce/any other websites. I always write CLEAN CODE and produce the BEST QUALITY end result.
